@@ -9,7 +9,7 @@
       "urls": [
         "https://dar097.github.io/ttcc-invasions/favicon.ico",
         "https://dar097.github.io/ttcc-invasions/index.html",
-        "https://dar097.github.io/ttcc-invasions/main.38291c35629d9a5d7f3c.js",
+        "https://dar097.github.io/ttcc-invasions/main.354fd74b446eb0c7ff0f.js",
         "https://dar097.github.io/ttcc-invasions/polyfills.2c3de0bc006dfe4b9b24.js",
         "https://dar097.github.io/ttcc-invasions/runtime.a66f828dca56eeb90e02.js",
         "https://dar097.github.io/ttcc-invasions/styles.95f459bddcd61072a600.css"
@@ -71,6 +71,7 @@
         "https://dar097.github.io/ttcc-invasions/assets/cogs/Two Face.png",
         "https://dar097.github.io/ttcc-invasions/assets/cogs/VP.png",
         "https://dar097.github.io/ttcc-invasions/assets/cogs/Yesman.png",
+        "https://dar097.github.io/ttcc-invasions/assets/cogs/logo_icon.png",
         "https://dar097.github.io/ttcc-invasions/assets/icons/icon-128x128.png",
         "https://dar097.github.io/ttcc-invasions/assets/icons/icon-144x144.png",
         "https://dar097.github.io/ttcc-invasions/assets/icons/icon-152x152.png",
@@ -178,6 +179,7 @@
     "https://dar097.github.io/ttcc-invasions/assets/cogs/Two Face.png": "6452d409671ea3641557f355dd2619e3948896ce",
     "https://dar097.github.io/ttcc-invasions/assets/cogs/VP.png": "bdb6875bc353d3e8b7e6e6555616472568bb2905",
     "https://dar097.github.io/ttcc-invasions/assets/cogs/Yesman.png": "eed1dff4102ed252b778a0989e3e397cd0dd7079",
+    "https://dar097.github.io/ttcc-invasions/assets/cogs/logo_icon.png": "bafe362891e15e73e7e8deb09ef135417fa039b9",
     "https://dar097.github.io/ttcc-invasions/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "https://dar097.github.io/ttcc-invasions/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "https://dar097.github.io/ttcc-invasions/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -230,8 +232,8 @@
     "https://dar097.github.io/ttcc-invasions/assets/species/Raccoon.png": "bf1e699149c68954696c8e129b8c931236d3a983",
     "https://dar097.github.io/ttcc-invasions/assets/toontorial.jpg": "63d848cbe332d19921c12d3e5b9cc1baa7bf1de6",
     "https://dar097.github.io/ttcc-invasions/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://dar097.github.io/ttcc-invasions/index.html": "e6d9df46ab8c80e2fb704c18a3ef96227979ba5f",
-    "https://dar097.github.io/ttcc-invasions/main.38291c35629d9a5d7f3c.js": "88af41861c6e893c3fda08754ba445920c433816",
+    "https://dar097.github.io/ttcc-invasions/index.html": "e6bcbf58111889162af313974f604badff32f6bb",
+    "https://dar097.github.io/ttcc-invasions/main.354fd74b446eb0c7ff0f.js": "c2c70eaff2eb8cc68dea2c4adc26eccf70834ba1",
     "https://dar097.github.io/ttcc-invasions/polyfills.2c3de0bc006dfe4b9b24.js": "096ba5e512c1ad80882a45e961ab38f1efafa7fd",
     "https://dar097.github.io/ttcc-invasions/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "https://dar097.github.io/ttcc-invasions/styles.95f459bddcd61072a600.css": "da091a74c1912d543ce766c0bda048e2f6931d15"
